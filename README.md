@@ -61,4 +61,5 @@ Don't hesitate to reach out if you have any questions, want to discuss a project
 Unless otherwise specified, the code and content in my repositories are licensed under the MIT license. Make sure to review the individual project repositories for specific licensing details. -->
 
 Thanks for visiting my GitHub profile! Enjoy exploring and happy coding!
+
 ![Thanks GIF](https://media.giphy.com/media/UvWllmm27ZaNbRpv2n/giphy.gif)
