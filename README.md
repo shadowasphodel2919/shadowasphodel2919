@@ -2,7 +2,7 @@
 
 I'm Taha Jamal, a passionate developer who loves building awesome projects and exploring new technologies. Welcome to my GitHub profile! Here, you'll find a collection of my personal projects, open-source contributions, and experiments. Feel free to explore, contribute, and collaborate!
 
-![Coding GIF](https://media.giphy.com/media/l3vRmVv5P01I5NDAA/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/UvWllmm27ZaNbRpv2n/giphy.gif)
 
 ## 🚀 Projects
 
