@@ -11,6 +11,8 @@ I'm Taha Jamal, a passionate developer who loves building awesome projects and e
 I've worked on some exciting projects. Here are a few highlights:
 
 1. **Cryptogrammer**: Working upon this one it is meant to hold visualizations for all the different ciphers.
+2. **FindFoto**: Created an application to easily search your photos from google drives using face-detection.
+3. **ContestMate**: Displays upcoming coding competitions.
 
 Check out the repositories for more details and don't hesitate to leave your feedback or suggestions. Contributions and collaborations are always welcome!
 
