@@ -41,7 +41,7 @@ I enjoy working with a wide range of technologies and tools, including:
    ![Git](https://img.icons8.com/color/30/000000/git.png) 
    ![Google Cloud](https://img.icons8.com/color/30/000000/google-cloud-platform.png)
 
-![Tech Stack GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+<!-- ![Tech Stack GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)-->
 
 
 ## 📫 Let's Connect!
