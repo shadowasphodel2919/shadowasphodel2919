@@ -48,7 +48,7 @@ I enjoy working with a wide range of technologies and tools, including:
 
 I love connecting with fellow developers and enthusiasts. You can reach out to me through the following channels:
 
-[![Email](https://img.icons8.com/ios-filled/30/000000/email.png)](mailto:youremail@example.com)
+[![Email](https://img.icons8.com/ios-filled/30/000000/email.png)](mailto:t2905j@gmail.com)
 [![LinkedIn](https://img.icons8.com/color/30/000000/linkedin.png)](https://www.linkedin.com/in/tahajamal/)
 [![Medium](https://img.icons8.com/color/30/000000/medium.png)](https://medium.com/@stupidsherlock)
 
